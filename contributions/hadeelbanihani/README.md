@@ -59,3 +59,7 @@ Paste your PR URL into TalentLMS → Module 4 → Thursday Stretch.
 This repository is provided for educational use only. See [LICENSE](LICENSE) for terms.
 
 You may clone and modify this repository for personal learning and practice, and reference code you wrote here in your professional portfolio. Redistribution outside this course is not permitted.
+
+## Exeplenation:
+
+This chart illustrates the distribution of revenue across product categories in the Amman Digital Market. Books and Electronics generate the highest revenues, exceeding 11,000 JOD each, indicating strong customer demand and market dominance in these categories. Clothing also performs well, contributing over 10,000 JOD, while Home & Garden shows moderate performance. In contrast, Food & Beverage and Sports generate the lowest revenues, each around 4,400 JOD. The clear gap between top and lower categories highlights opportunities for strategic focus. Businesses can prioritize high-performing categories for growth while exploring ways to improve underperforming segments through targeted marketing and product optimization.
